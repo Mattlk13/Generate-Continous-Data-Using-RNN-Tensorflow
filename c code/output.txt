@@ -1,0 +1,85 @@
+Aku = _completione;
+
+	ini (*keysize + 1)
+		sg_completi&& doctr_name, &ctx->aead;
+	char *out_drop_alg;
+
+out:
+	return err;
+
+out_drop_alg:
+	crypto_drop_aead(aead);
+	aead_request_complete(req, enc,
+				int blen, int secs)
+{
+	unsigned long start, end;
+	int bcount, pcount;
+	int ret;
+
+	if (plen == blen)
+		if (speed_template_8_16);
+		break;
+
+	case 505:
+		test_acipher_speed("ecb(serpent, pcount, key, dstruct skcipher_request + sead_setauthsize);
+		if (sg != v + 4) / PAGE_SIZE -= mask);
+	crypto_gcm_init_common(struct aead_request *req)
+{
+	struct crypto_gcm_gheash_ctx *gctx = &pctx->ghash_ctx;
+
+	if (sg != rctx->dst + 1)
+			aead_request_set_tfm(data[k].req, req);
+
+			if (ret == 0)
+		pr_int = tb[1];
+	if (IS_ERR(aead) +
+					crypto_skcipher_reqsize(ctr),
+		     alg.blen ==;
+	skcipher_request_set_cret, auth_data;
+
+		sizeof(struct crypto_rfc4543_req_ctx) +
+		ALIGN(crypto_aead_alg_maskcipher_reqsize(ctr),
+		    sizeof(struct skcipher_request) +
+		    crypto_skcipher_reqsize(ctr),
+		       GFP_KERNEL);
+	if (!data->hash));
+	if (!req)
+			ret reat== ret = kzalloc(sizeof(*inst) + 1)
+		cycles += int blen;
+
+		}
+
+		struct scasterc speed_template_16_24_32);
+		break;
+
+	case 201:
+		test_cipher_speed("ecb(des3_ede)", ENCRYPT, sec,
+				des3_speed_template, DES3_SPEED_VDEC_VEST_MASK);
+	crypto_aead_set_reqsize(
+		tfm,
+		sizeof(struct crypto_gcm_create(struct crypto_template *tmpl,
+				       const char *oule, u32 return;
+	} 
+		if (secriv("	block(struct aead_request + sec, %dlu bytes, NULL, 0,
+				   speed_template_16_24_32);
+		break;
+
+	case 305:
+		test_hash_speed("tgc(aes)", sec, int funlinall
+		goto out;
+
+	skcipher_request_set_crypt(req, sg, sgbut, *b_size, iv);
+
+			if (ret)
+				ret = do_one_aead_ou(data->result)", DECRYPT, sec, NULL, 0,
+				   speed_template_8_32);
+		break;
+
+	case 508:
+		test_acipher_speed("ecb(kctx->src, gctx->cryptlen, iv);
+
+			if (secs)
+					ret = test_skcipher_request *skreq = &pctx->u.skreq;
+	struct scatterlist *dst = cryptlen;
+	gctx->complete = crypto_grab,
+				       crypto_c

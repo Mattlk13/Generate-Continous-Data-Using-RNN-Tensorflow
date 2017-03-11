@@ -1,0 +1,10 @@
+batch: 100, loss: 3.67996, speed: 20.2541856099 batches / s
+batch: 200, loss: 4.04452, speed: 19.6310500638 batches / s
+batch: 300, loss: 3.84881, speed: 19.6854267765 batches / s
+batch: 400, loss: 4.37036, speed: 19.4820500599 batches / s
+batch: 500, loss: 3.60291, speed: 19.3769348678 batches / s
+batch: 600, loss: 3.61009, speed: 19.6834544258 batches / s
+batch: 700, loss: 3.56555, speed: 19.7021350794 batches / s
+batch: 800, loss: 3.62042, speed: 19.6378783002 batches / s
+batch: 900, loss: 3.50309, speed: 19.5154652808 batches / s
+batch: 1000, loss: 3.51422, speed: 19.7211553634 batches / s
