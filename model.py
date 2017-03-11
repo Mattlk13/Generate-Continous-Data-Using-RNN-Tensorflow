@@ -39,10 +39,7 @@ class ModelRNN:
             
             #initialise size of our nets
             #number of cells in a layer times with number of layer
-            if(model == 'simple lstm' or model == 'lstm'):
-                self.rnn_cells =  tf.nn.rnn_cell.MultiRNNCell([rnn_cells] * net_layer, state_is_tuple = False)
-            else:
-                self.rnn_cells =  tf.nn.rnn_cell.MultiRNNCell([rnn_cells] * net_layer, state_is_tuple = False)
+            self.rnn_cells =  tf.nn.rnn_cell.MultiRNNCell([rnn_cells] * net_layer, state_is_tuple = False)
         
             self.input_data = tf.placeholder(datatype, shape=(None, None, seq_length))
             
