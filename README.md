@@ -20,7 +20,7 @@ sudo pip install tensorflow-gpu scipy numpy
 ###All the global variables written nicely in main.py, with explanation
 
 ####I trained 3 different datasets, Shakespeare Stories, IIUM Confession and C Code Linux Kernel.
-####All these datasets I trained about 2000 of loops, loss almost reach 1.0. Output generated really good enough.
+####All these datasets I trained about 2000 of loops, loss almost reach 0.0. Output generated really good enough.
 ####All these datasets trained using GRU Model
 
 #####IIUM Confession
