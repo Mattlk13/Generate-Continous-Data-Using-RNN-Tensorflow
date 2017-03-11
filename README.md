@@ -268,6 +268,6 @@ Therefore, that I confessand
 ```
 
 ####I also do comparison loss test among RNN models provided in this code, Simple LSTM, LSTM, GRU, Simple Classic RNN
-####These different trained on same model, shakespeare text for 1000 loops
+####These different models trained on same dataset, shakespeare text for 1000 loops
 
 ![Alt text](comparison.png "screenshot")
