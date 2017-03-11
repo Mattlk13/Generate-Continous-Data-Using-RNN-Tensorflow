@@ -93,91 +93,75 @@ sebenaran anakape
 ![Alt text](gru c code.png "screenshot")
 
 ```c
-Aku = _completione;
+#include <linut/fips.h>
+#includsibes = kzalloc(sizeof(*ize, int nb_aead);
 
-	ini (*keysize + 1)
-		sg_completi&& doctr_name, &ctx->aead;
-	char *out_drop_alg;
+	return crypto_skcipher_engc(sizeof(*sg) * 9 done) ? 1);
+	ctr_name 500 fups_t = crypto_renuln_cipher_neq(pctx->src, dst, req->assoclen - 8);
+
+	sg_init_tat(req, speed[i].len, tx->base.cra_driver_name, CRYPTO_MAX_ALG_NAME,
+		     "rfc4106(%s)", alg->base.cra_driver_name) >=
+	    CRYPTO_MAX_ALG_NAME)
+		goto out_dooe;
+
+		pr_info("testioperane infy(aead) &	 crypto_aead_clear_free(GFP_KERNES_SIZE);
+	SnC(algt->alg.base.cra_driver_name, CRYPTO_MAX_ALG_NAME,
+		     "rfc4106(%s)", alg->base.cra_driver_name) >=
+	    CRYPTO_MAX_ALG_NAME)
+		goto out_drop_alg;
+
+	inst->alg.base.cra_flags = alg->base.cra_flags && gcm_hash_crypt_done, req);
+
+	return crypto_skcipher_encrypt(nreq));
+		if (hassoc)
+		ghash_name = crypto_attr_alignmask(tfm);
+	crypto_free_skcipher_clear_flags(ctr, CRYPTO_TFM_REQ_MASK);
+	crypto_aead_set_flags(parent, crypto_aead_get_flags(aead) &
+				       CRYPTO_TFM_RES_MASK);
 
 out:
-	return err;
-
-out_drop_alg:
-	crypto_drop_aead(aead);
-	aead_request_complete(req, enc,
-				int blen, int secs)
-{
-	unsigned long start, end;
-	int bcount, pcount;
-	int ret;
-
-	if (plen == blen)
-		if (speed_template_8_16);
-		break;
-
-	case 505:
-		test_acipher_speed("ecb(serpent, pcount, key, dstruct skcipher_request + sead_setauthsize);
-		if (sg != v + 4) / PAGE_SIZE -= mask);
-	crypto_gcm_init_common(struct aead_request *req)
-{
-	struct crypto_gcm_gheash_ctx *gctx = &pctx->ghash_ctx;
-
-	if (sg != rctx->dst + 1)
-			aead_request_set_tfm(data[k].req, req);
-
-			if (ret == 0)
-		pr_int = tb[1];
-	if (IS_ERR(aead) +
-					crypto_skcipher_reqsize(ctr),
-		     alg.blen ==;
-	skcipher_request_set_cret, auth_data;
-
-		sizeof(struct crypto_rfc4543_req_ctx) +
-		ALIGN(crypto_aead_alg_maskcipher_reqsize(ctr),
+	kzfree(data);
+		ret = crypto_aead_reqsize(ctr),
 		    sizeof(struct skcipher_request) +
-		    crypto_skcipher_reqsize(ctr),
-		       GFP_KERNEL);
-	if (!data->hash));
-	if (!req)
-			ret reat== ret = kzalloc(sizeof(*inst) + 1)
-		cycles += int blen;
+		    crypto_skcipher_elge(rctx);
+		ret = tr->base.cra_blocksize = 1;
+	inst->alg.base.cra_alloc_testsutt /oes set buf;
+	err = gcm_hash_assoc_remain_continue(req, 0);
+	if (err == -EINPROGRESS)
+		return;
 
-		}
+	result->err = err;
+	complete(&resurn -EINVAL;
 
-		struct scasterc speed_template_16_24_32);
+	ccm_name = crypto_attr_alg_name(tb[1]);
+	if (IS_ERR(cipher_name))
+		return PTR_ERR(ghash_alg);
+
+	ghash = __crypto_hash_alg_chunkskcipher(alg;
+
+	inst->alg.base.cra_priority;
+	inst->alg.base.cra_blocksize = 1;
+	inst->alg.base.cra_alignmask;
+	inst->alg.base.cra_name, CRYPTO_MAX_ALG_TYPE_AEAD; (algt->tagme != pcount += daty_bloc(sg, DIV_ROUND_UP(k, PAGE_SIZE));
+
+			if (k > PAGE_SIZE * PAGE_SIZE) {
+				pr_err("test(ctr, (g str) & toorestutb to break;
+
+	case 47:
+		ret += tcrypt_test("ecb(des)");
+		ret += tcrypt_test("lza"tb");
 		break;
 
-	case 201:
-		test_cipher_speed("ecb(des3_ede)", ENCRYPT, sec,
-				des3_speed_template, DES3_SPEED_VDEC_VEST_MASK);
-	crypto_aead_set_reqsize(
-		tfm,
-		sizeof(struct crypto_gcm_create(struct crypto_template *tmpl,
-				       const char *oule, u32 return;
-	} 
-		if (secriv("	block(struct aead_request + sec, %dlu bytes, NULL, 0,
-				   speed_template_16_24_32);
+	case 44:
+		ret += tcrypt_be(blowfish)", ENCRYPT, sec, NULL, 0,
+				   speed_template_86_24);
 		break;
 
-	case 305:
-		test_hash_speed("tgc(aes)", sec, int funlinall
-		goto out;
-
-	skcipher_request_set_crypt(req, sg, sgbut, *b_size, iv);
-
-			if (ret)
-				ret = do_one_aead_ou(data->result)", DECRYPT, sec, NULL, 0,
-				   speed_template_8_32);
+	case 406:
+		ret += tcrypt_test("tgr128");
 		break;
 
-	case 508:
-		test_acipher_speed("ecb(kctx->src, gctx->cryptlen, iv);
-
-			if (secs)
-					ret = test_skcipher_request *skreq = &pctx->u.skreq;
-	struct scatterlist *dst = cryptlen;
-	gctx->complete = crypto_grab,
-				       crypto_c
+	case 4
 ```
 
 #####Shakespeare Stories
