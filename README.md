@@ -17,7 +17,7 @@ or if you got Nvidia GPU that support CUDA,
 ```python
 sudo pip install tensorflow-gpu scipy numpy
 ```
-### All the global variables written nicely in main.py, with explanation
+### All the global variables written nicely in main.py, with explanation, similar with Word Generator RNN i created
 
 #### I trained 3 different datasets, Shakespeare Stories, IIUM Confession and C Code Linux Kernel.
 #### All these datasets I trained about 2000 of loops, loss almost reach 0.0. Output generated really good enough.
