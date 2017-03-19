@@ -1,29 +1,29 @@
 # Generate-Continous-Data-Using-RNN-Tensorflow
-##Updated model from previous repository about Generate Text using RNN. This model way more faster and be able to train the data less than 5 mins!
+## Updated model from previous repository about Generate Text using RNN. This model way more faster and be able to train the data less than 5 mins!
 
-###After read Tensorflow documentation more than 2 weeks, I able to updated previous RNN Model, and way more faster to train and precise output.
+### After read Tensorflow documentation more than 2 weeks, I able to updated previous RNN Model, and way more faster to train and precise output.
 
-####You can train any continous data for this model, example Text and Music
+#### You can train any continous data for this model, example Text and Music
 
-###Dependency needed:
+### Dependency needed:
 ```python
 sudo pip install tensorflow scipy numpy
 ```
 
-####This only can be run on 2.7 Python
+#### This only can be run on 2.7 Python
 
 or if you got Nvidia GPU that support CUDA,
 
 ```python
 sudo pip install tensorflow-gpu scipy numpy
 ```
-###All the global variables written nicely in main.py, with explanation
+### All the global variables written nicely in main.py, with explanation
 
-####I trained 3 different datasets, Shakespeare Stories, IIUM Confession and C Code Linux Kernel.
-####All these datasets I trained about 2000 of loops, loss almost reach 0.0. Output generated really good enough.
-####All these datasets trained using GRU Model
+#### I trained 3 different datasets, Shakespeare Stories, IIUM Confession and C Code Linux Kernel.
+#### All these datasets I trained about 2000 of loops, loss almost reach 0.0. Output generated really good enough.
+#### All these datasets trained using GRU Model
 
-#####IIUM Confession
+##### IIUM Confession
 ![Alt text](gru confession.png "screenshot")
 
 ```
@@ -89,7 +89,7 @@ Bila anakana minu untuk banyak amir pua
 sebenaran anakape 
 ```
 
-#####C Code Kernel Linux
+##### C Code Kernel Linux
 ![Alt text](gru c code.png "screenshot")
 
 ```c
@@ -164,7 +164,7 @@ out:
 	case 4
 ```
 
-#####Shakespeare Stories
+##### Shakespeare Stories
 ![Alt text](gru shakespeare.png "screenshot")
 
 ```
@@ -251,7 +251,7 @@ I wild him, Masters,
 Therefore, that I confessand
 ```
 
-####I also do comparison loss test among RNN models provided in this code, Simple LSTM, LSTM, GRU, Simple Classic RNN
-####These different models trained on same dataset, shakespeare text for 1000 loops
+#### I also do comparison loss test among RNN models provided in this code, Simple LSTM, LSTM, GRU, Simple Classic RNN
+#### These different models trained on same dataset, shakespeare text for 1000 loops
 
 ![Alt text](comparison.png "screenshot")
